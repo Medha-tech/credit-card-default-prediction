@@ -7,10 +7,8 @@ This project aims to predict whether a customer will default on their credit car
 
 ## 📂 Project Structure
 Credit_Card_Default/
-│
 ├── data/
 │   └── UCI_Credit_Card.csv   
-│
 ├── Credit_Card_Default.ipynb     
 ├── README.md                     
 ├── requirements.txt               
@@ -78,3 +76,4 @@ Recall and ROC-AUC were prioritized because:
    pip install -r requirements.txt
 
 3. Run the notebook
+
